@@ -291,7 +291,7 @@ class StudentSurway extends Component {
       name = (
         <div>
           <h1>
-            Thank You! "{this.state.studentName}" for submitting your answers.
+            Thank You! "{this.state.studentName}"" for submitting your answers.
           </h1>
         </div>
       );
